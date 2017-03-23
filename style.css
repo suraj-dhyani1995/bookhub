@@ -1,0 +1,64 @@
+body
+{
+	background: #eceff1;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#heading
+{
+	margin-top: 30px;
+    color: #E64A19;
+    text-transform: uppercase;
+    
+    letter-spacing: 1px;
+    max-width: 100%;
+        word-wrap: break-word;
+    text-align: center;
+}
+#line
+{
+	text-align: center;
+	margin-top: 10px;
+
+}
+form
+{
+	text-align: center;
+    display: inline;
+}
+.input
+{
+    width: 70%;
+}
+label {
+    float: left;
+    font-size: initial;
+    margin-right: 110px;
+}
+.but {
+    display: block;
+    overflow: hidden;
+    padding: 0 4px 0 6px
+}
+input {
+    width: 50%
+}
+#repeat
+{
+    margin-right: 10px;
+}
+#company
+{
+    margin-right: 90px;
+}
+#web
+{
+    margin-right: 100px;
+
+}
+
+
+
+#entr
+{
+    margin-right: 80px;
+}
