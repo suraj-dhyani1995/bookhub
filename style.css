@@ -16,8 +16,10 @@ body
 }
 #line
 {
-	text-align: center;
-	margin-top: 10px;
+text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background: #c3dcd8;
 
 }
 form
@@ -61,4 +63,21 @@ input {
 #entr
 {
     margin-right: 80px;
+}
+
+.btn-group, .btn-group-vertical {
+    vertical-align: top;
+}
+
+
+.form-group-special
+{
+    display: inline-block;
+
+}
+
+
+textarea
+{
+        width: 78% !important;
 }
